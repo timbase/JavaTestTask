@@ -3,9 +3,9 @@
 Приложение Parts-list, для отображения списка деталей для сборки компьютеров.
 Записи хранятся в базе данных. Название базы test, с логином и паролем root.
 
-После слонирования с github, во вкладке Build выбираем Rebuild Project, там же Build Artifacts.
-Инсталируем базу данных JavaRushTestAddQuery.sql в MySQL.
-Запускаем Tomcat.
+- После слонирования с github, во вкладке Build выбираем Rebuild Project, там же Build Artifacts.
+- Инсталируем базу данных JavaRushTestAddQuery.sql в MySQL.
+- Запускаем Tomcat.
 
 ### Используемые технологии:
 - #### Maven
